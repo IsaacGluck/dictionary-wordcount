@@ -1,1 +1,8 @@
-"Hello World!"
+Command line tool that takes a file (or multiple files) and counts the appearences of every word.
+
+Will automatically output all the words from most frequent to least.
+
+Options (as flags) include:
+  limiting number of output results.
+  outputting from least frequent to most.
+  outputting in alphabetical order.
